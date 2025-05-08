@@ -6,7 +6,7 @@
 
 2. Clonar um repositório remoto para o nosso computador loca; [✅]
 
-3. Fazer Alterações >> Adicionar | Commitar | Enviar | arquivos; [ ]
+3. Fazer Alterações >> Adicionar | Commitar | Enviar | arquivos; [✅]
 
 4. Criar uma nova Branch; [ ]
 
